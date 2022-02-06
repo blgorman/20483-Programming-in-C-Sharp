@@ -5,8 +5,8 @@
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
       <Diagram DiagramId="8f502b9a1210498388b04dc4bf1e5133" Name="Diagram1">
-        <EntityTypeShape EntityType="SchoolDBModel.Student" Width="1.5" PointX="3" PointY="0.875" IsExpanded="true" />
-        <EntityTypeShape EntityType="SchoolDBModel.Teacher" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.Student" Width="1.5" PointX="3.5" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.Teacher" Width="1.5" PointX="0.875" PointY="1.125" IsExpanded="true" />
         <AssociationConnector Association="SchoolDBModel.FK__Student__ClassId__1B0907CE" ManuallyRouted="false" />
       </Diagram>
     </edmx:Diagrams>
